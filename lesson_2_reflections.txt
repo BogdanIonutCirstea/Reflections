@@ -10,3 +10,9 @@ How is the staging area different from the working directory and the repository?
 	or the entire repository (all the files within the working directory belonging to the current commit) would have to
 	be committed each time. It also allows for multiple separate commits for different file instead of a single commit 
 	incorporating all changed files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By adding changed files to the staging area at the right level of granularity, that is, the level of granularity 
+	corresponding to separate logical changes, and then committing separately for each 'block of files' corresponding
+	to a single logical change. 
