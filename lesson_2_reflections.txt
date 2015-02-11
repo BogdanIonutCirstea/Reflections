@@ -21,3 +21,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	When we want to create different 'parallel' versions of a project and switch easily between them; they help by making
 	switching between branches much easier.
+
+How do the diagrams help you visualize the branch structure?
+
+	By provinding a visual representation, which is more intuitive, of the branch structure.
