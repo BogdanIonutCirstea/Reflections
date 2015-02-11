@@ -31,3 +31,7 @@ What is the result of merging two branches together? Why do we represent it in t
 	The result is a new commit, attached to the branch which was last checked out before the branch. We represent it by
 	'merging' the graph paths because it corresponds to what happens to the commits in the separate branches: the equivalent
 	of a union is performed on them, with them ordered by their timestamps.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging allows for time saving, but is less flexible than always doing merges manually.
