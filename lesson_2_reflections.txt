@@ -16,3 +16,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 	By adding changed files to the staging area at the right level of granularity, that is, the level of granularity 
 	corresponding to separate logical changes, and then committing separately for each 'block of files' corresponding
 	to a single logical change. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When we want to create different 'parallel' versions of a project and switch easily between them; they help by making
+	switching between branches much easier.
